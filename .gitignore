@@ -1,0 +1,6 @@
+/x64/
+/Win32/
+*.suo
+*.user
+*.ncb
+/.vs/
